@@ -1,3 +1,3 @@
 # 3 seminar
 
-$$ Changes from local repository
+## Changes from local repository
